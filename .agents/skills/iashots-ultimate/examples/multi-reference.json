@@ -1,0 +1,12 @@
+{
+  "Subject": "Use image A exclusively for scene composition and image B exclusively for the desired person identity. Preserve the facial identity of B without transferring physical traits from A.",
+  "Clothing": "Use only the visible outfit from image C, preserving its cut, colour, layering and accessory placement as actually observed.",
+  "Pose": "Match the observable body orientation, gesture and gaze from scene reference A, without inventing limbs outside its crop.",
+  "Setting": "Reconstruct the environment and object relationships actually visible in A.",
+  "Camera Settings": "Match A framing, orientation, perspective and focus hierarchy; optical values are suggestions rather than recovered EXIF.",
+  "Lighting": "Use image D exclusively for observable light direction, softness and contrast, adapting shadows consistently to the environment in A.",
+  "Effects": "Preserve the restrained photographic treatment unless an explicit user variation overrides it.",
+  "Background": "Keep the visible background layout from A without adding objects or copying identity traits.",
+  "Details": "This template requires the actual accessible A/B/C/D images; resolve conflicting priorities before producing a concrete photographic reconstruction. Exclude unrequested overlays.",
+  "Quality": "Consistent materials, anatomy, scale and lighting, with no unintended mixing of identity references."
+}

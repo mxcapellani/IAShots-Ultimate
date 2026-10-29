@@ -1,0 +1,12 @@
+{
+  "Subject": "A single person positioned in the foreground. Preserve the facial identity and distinguishing physical features from the designated identity reference images, without adopting the original scene subject's physical appearance.",
+  "Clothing": "A structured charcoal blazer worn open over a plain white crew-neck shirt, with realistic fabric texture, clean seams, natural folds, and minimal accessories.",
+  "Pose": "Standing in a relaxed three-quarter pose, shoulders slightly angled, one hand resting naturally in a pocket, and gaze directed toward the camera.",
+  "Setting": "A contemporary interior with neutral architectural finishes, understated furniture, and a refined editorial atmosphere.",
+  "Camera Settings": "Vertical medium portrait, eye-level camera position, natural portrait perspective, approximately 85mm full-frame equivalent lens, shallow depth of field, and precise subject focus.",
+  "Lighting": "Large soft directional key light from camera-left, gentle ambient fill, subtle separation from the background, and coherent natural shadow gradients.",
+  "Effects": "Subtle background blur, restrained tonal grading, realistic optical rendering, and no artificial glow or excessive sharpening.",
+  "Background": "Muted interior surfaces with softly blurred architectural details and controlled visual distractions.",
+  "Details": "Preserve the specified composition, garment design, accessories, and spatial relationships. Avoid overlay text, watermarks, inconsistent anatomy, distorted hands, and unwanted identity transfer.",
+  "Quality": "High-fidelity photorealistic photography with natural material textures, physically plausible lighting, authentic perspective, coherent details, and professional editorial image quality."
+}

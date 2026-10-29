@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IAShots Ultimate photographic prompt",
+  "type": "object",
+  "required": [
+    "Subject",
+    "Clothing",
+    "Pose",
+    "Setting",
+    "Camera Settings",
+    "Lighting",
+    "Effects",
+    "Background",
+    "Details",
+    "Quality"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "Subject": {
+      "type": "string"
+    },
+    "Clothing": {
+      "type": "string"
+    },
+    "Pose": {
+      "type": "string"
+    },
+    "Setting": {
+      "type": "string"
+    },
+    "Camera Settings": {
+      "type": "string"
+    },
+    "Lighting": {
+      "type": "string"
+    },
+    "Effects": {
+      "type": "string"
+    },
+    "Background": {
+      "type": "string"
+    },
+    "Details": {
+      "type": "string"
+    },
+    "Quality": {
+      "type": "string"
+    }
+  }
+}

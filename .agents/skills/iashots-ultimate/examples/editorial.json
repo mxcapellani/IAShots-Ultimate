@@ -1,0 +1,12 @@
+{
+  "Subject": "A person placed slightly off centre; use only the designated identity reference for physical identity, never the scene subject.",
+  "Clothing": "A cream tailored jacket over a matte dark top, with visible lapels, natural folds and restrained accessories.",
+  "Pose": "Seated with shoulders gently rotated and hands resting on the chair arms, gaze toward the lens.",
+  "Setting": "A minimal studio with a textured grey wall and a simple dark chair.",
+  "Camera Settings": "Vertical waist-up editorial composition at eye level, natural portrait perspective, suggested moderate telephoto appearance and controlled background separation.",
+  "Lighting": "Soft directional key from camera-right, restrained fill and plausible shadows on chair and wall.",
+  "Effects": "Subtle tonal grading and natural optical falloff without artificial halos.",
+  "Background": "Textured grey wall behind the chair with no added decorative objects.",
+  "Details": "Preserve the specified scene geometry and garment construction; exclude unrequested overlays and source-subject identity transfer.",
+  "Quality": "Photorealistic materials, consistent anatomy and perspective, controlled highlights and natural texture."
+}
